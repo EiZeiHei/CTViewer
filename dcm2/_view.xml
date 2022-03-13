@@ -1,0 +1,1172 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.6.0_45" class="java.beans.XMLDecoder"> 
+ <object class="romexis_lib_imaging.tools.CImageContent"> 
+  <void property="CViews"> 
+   <void method="put"> 
+    <object class="romexis_lib_imaging.typesg.View3d"> 
+     <void property="baseXX"> 
+      <double>1.0</double> 
+     </void> 
+     <void property="baseYY"> 
+      <double>1.0</double> 
+     </void> 
+     <void property="baseZZ"> 
+      <double>1.0</double> 
+     </void> 
+     <void property="centerX"> 
+      <double>343.5</double> 
+     </void> 
+     <void property="centerY"> 
+      <double>346.5</double> 
+     </void> 
+     <void property="centerZ"> 
+      <double>341.5</double> 
+     </void> 
+     <void property="sliceX"> 
+      <int>455</int> 
+     </void> 
+     <void property="sliceY"> 
+      <int>323</int> 
+     </void> 
+     <void property="sliceZ"> 
+      <int>590</int> 
+     </void> 
+     <void property="viewGamma"> 
+      <double>1.0</double> 
+     </void> 
+     <void property="viewID"> 
+      <int>1874641214</int> 
+     </void> 
+     <void property="viewLevel"> 
+      <int>2049</int> 
+     </void> 
+     <void property="viewName"> 
+      <string></string> 
+     </void> 
+     <void property="viewType"> 
+      <int>2</int> 
+     </void> 
+     <void property="viewWindow"> 
+      <int>4094</int> 
+     </void> 
+    </object> 
+    <object class="java.util.LinkedList"> 
+     <void method="add"> 
+      <object class="romexis_lib_imaging.typesg.ViewAttrib"> 
+       <void property="attribType"> 
+        <int>4</int> 
+       </void> 
+       <void property="doubleValue"> 
+        <double>1.2</double> 
+       </void> 
+       <void property="moduleKey"> 
+        <string>Z</string> 
+       </void> 
+      </object> 
+     </void> 
+     <void method="add"> 
+      <object class="romexis_lib_imaging.typesg.ViewAttrib"> 
+       <void property="attribType"> 
+        <int>5</int> 
+       </void> 
+       <void property="doubleValue"> 
+        <double>2.0</double> 
+       </void> 
+       <void property="moduleKey"> 
+        <string>Z</string> 
+       </void> 
+      </object> 
+     </void> 
+     <void method="add"> 
+      <object class="romexis_lib_imaging.typesg.ViewAttrib"> 
+       <void property="attribType"> 
+        <int>4</int> 
+       </void> 
+       <void property="doubleValue"> 
+        <double>1.2</double> 
+       </void> 
+       <void property="moduleKey"> 
+        <string>X</string> 
+       </void> 
+      </object> 
+     </void> 
+     <void method="add"> 
+      <object class="romexis_lib_imaging.typesg.ViewAttrib"> 
+       <void property="attribType"> 
+        <int>5</int> 
+       </void> 
+       <void property="doubleValue"> 
+        <double>2.0</double> 
+       </void> 
+       <void property="moduleKey"> 
+        <string>X</string> 
+       </void> 
+      </object> 
+     </void> 
+     <void method="add"> 
+      <object class="romexis_lib_imaging.typesg.ViewAttrib"> 
+       <void property="attribType"> 
+        <int>4</int> 
+       </void> 
+       <void property="doubleValue"> 
+        <double>1.2</double> 
+       </void> 
+       <void property="moduleKey"> 
+        <string>Y</string> 
+       </void> 
+      </object> 
+     </void> 
+     <void method="add"> 
+      <object class="romexis_lib_imaging.typesg.ViewAttrib"> 
+       <void property="attribType"> 
+        <int>5</int> 
+       </void> 
+       <void property="doubleValue"> 
+        <double>2.0</double> 
+       </void> 
+       <void property="moduleKey"> 
+        <string>Y</string> 
+       </void> 
+      </object> 
+     </void> 
+     <void method="add"> 
+      <object class="romexis_lib_imaging.typesg.ViewAttrib"> 
+       <void property="attribType"> 
+        <int>6</int> 
+       </void> 
+       <void property="intValue"> 
+        <int>1</int> 
+       </void> 
+       <void property="moduleKey"> 
+        <string>Z</string> 
+       </void> 
+      </object> 
+     </void> 
+     <void method="add"> 
+      <object class="romexis_lib_imaging.typesg.ViewAttrib"> 
+       <void property="attribType"> 
+        <int>7</int> 
+       </void> 
+       <void property="intValue"> 
+        <int>1</int> 
+       </void> 
+       <void property="moduleKey"> 
+        <string>Z</string> 
+       </void> 
+      </object> 
+     </void> 
+     <void method="add"> 
+      <object class="romexis_lib_imaging.typesg.ViewAttrib"> 
+       <void property="attribType"> 
+        <int>6</int> 
+       </void> 
+       <void property="intValue"> 
+        <int>1</int> 
+       </void> 
+       <void property="moduleKey"> 
+        <string>Y</string> 
+       </void> 
+      </object> 
+     </void> 
+     <void method="add"> 
+      <object class="romexis_lib_imaging.typesg.ViewAttrib"> 
+       <void property="attribType"> 
+        <int>7</int> 
+       </void> 
+       <void property="intValue"> 
+        <int>1</int> 
+       </void> 
+       <void property="moduleKey"> 
+        <string>Y</string> 
+       </void> 
+      </object> 
+     </void> 
+     <void method="add"> 
+      <object class="romexis_lib_imaging.typesg.ViewAttrib"> 
+       <void property="attribType"> 
+        <int>6</int> 
+       </void> 
+       <void property="intValue"> 
+        <int>1</int> 
+       </void> 
+       <void property="moduleKey"> 
+        <string>X</string> 
+       </void> 
+      </object> 
+     </void> 
+     <void method="add"> 
+      <object class="romexis_lib_imaging.typesg.ViewAttrib"> 
+       <void property="attribType"> 
+        <int>7</int> 
+       </void> 
+       <void property="intValue"> 
+        <int>1</int> 
+       </void> 
+       <void property="moduleKey"> 
+        <string>X</string> 
+       </void> 
+      </object> 
+     </void> 
+     <void method="add"> 
+      <object class="romexis_lib_imaging.typesg.ViewAttrib"> 
+       <void property="attribType"> 
+        <int>13</int> 
+       </void> 
+       <void property="intValue"> 
+        <int>2048</int> 
+       </void> 
+       <void property="moduleKey"> 
+        <string>E</string> 
+       </void> 
+      </object> 
+     </void> 
+     <void method="add"> 
+      <object class="romexis_lib_imaging.typesg.ViewAttrib"> 
+       <void property="attribType"> 
+        <int>14</int> 
+       </void> 
+       <void property="intValue"> 
+        <int>2048</int> 
+       </void> 
+       <void property="moduleKey"> 
+        <string>E</string> 
+       </void> 
+      </object> 
+     </void> 
+     <void method="add"> 
+      <object class="romexis_lib_imaging.typesg.ViewAttrib"> 
+       <void property="attribType"> 
+        <int>12</int> 
+       </void> 
+       <void property="intValue"> 
+        <int>1350</int> 
+       </void> 
+       <void property="moduleKey"> 
+        <string>E</string> 
+       </void> 
+      </object> 
+     </void> 
+     <void method="add"> 
+      <object class="romexis_lib_imaging.typesg.ViewAttrib"> 
+       <void property="attribType"> 
+        <int>11</int> 
+       </void> 
+       <void property="intValue"> 
+        <int>2</int> 
+       </void> 
+       <void property="moduleKey"> 
+        <string>E</string> 
+       </void> 
+      </object> 
+     </void> 
+     <void method="add"> 
+      <object class="romexis_lib_imaging.typesg.ViewAttrib"> 
+       <void property="attribType"> 
+        <int>27</int> 
+       </void> 
+       <void property="intValue"> 
+        <int>2</int> 
+       </void> 
+       <void property="moduleKey"> 
+        <string>E</string> 
+       </void> 
+      </object> 
+     </void> 
+     <void method="add"> 
+      <object class="romexis_lib_imaging.typesg.ViewAttrib"> 
+       <void property="attribType"> 
+        <int>15</int> 
+       </void> 
+       <void property="doubleValue"> 
+        <double>-1.5707963267948966</double> 
+       </void> 
+       <void property="moduleKey"> 
+        <string>E</string> 
+       </void> 
+      </object> 
+     </void> 
+     <void method="add"> 
+      <object class="romexis_lib_imaging.typesg.ViewAttrib"> 
+       <void property="attribType"> 
+        <int>16</int> 
+       </void> 
+       <void property="moduleKey"> 
+        <string>E</string> 
+       </void> 
+      </object> 
+     </void> 
+     <void method="add"> 
+      <object class="romexis_lib_imaging.typesg.ViewAttrib"> 
+       <void property="attribType"> 
+        <int>17</int> 
+       </void> 
+       <void property="doubleValue"> 
+        <double>1.0</double> 
+       </void> 
+       <void property="moduleKey"> 
+        <string>E</string> 
+       </void> 
+      </object> 
+     </void> 
+     <void method="add"> 
+      <object class="romexis_lib_imaging.typesg.ViewAttrib"> 
+       <void property="attribType"> 
+        <int>18</int> 
+       </void> 
+       <void property="doubleValue"> 
+        <double>-0.8</double> 
+       </void> 
+       <void property="moduleKey"> 
+        <string>E</string> 
+       </void> 
+      </object> 
+     </void> 
+     <void method="add"> 
+      <object class="romexis_lib_imaging.typesg.ViewAttrib"> 
+       <void property="attribType"> 
+        <int>19</int> 
+       </void> 
+       <void property="moduleKey"> 
+        <string>E</string> 
+       </void> 
+      </object> 
+     </void> 
+     <void method="add"> 
+      <object class="romexis_lib_imaging.typesg.ViewAttrib"> 
+       <void property="attribType"> 
+        <int>20</int> 
+       </void> 
+       <void property="moduleKey"> 
+        <string>E</string> 
+       </void> 
+      </object> 
+     </void> 
+     <void method="add"> 
+      <object class="romexis_lib_imaging.typesg.ViewAttrib"> 
+       <void property="attribType"> 
+        <int>21</int> 
+       </void> 
+       <void property="moduleKey"> 
+        <string>E</string> 
+       </void> 
+      </object> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="put"> 
+    <object class="romexis_lib_imaging.typesg.View3d"> 
+     <void property="baseXX"> 
+      <double>1.0</double> 
+     </void> 
+     <void property="baseYY"> 
+      <double>1.0</double> 
+     </void> 
+     <void property="baseZZ"> 
+      <double>1.0</double> 
+     </void> 
+     <void property="centerX"> 
+      <double>341.5</double> 
+     </void> 
+     <void property="centerY"> 
+      <double>341.5</double> 
+     </void> 
+     <void property="centerZ"> 
+      <double>341.5</double> 
+     </void> 
+     <void property="sliceX"> 
+      <int>263</int> 
+     </void> 
+     <void property="sliceY"> 
+      <int>50</int> 
+     </void> 
+     <void property="sliceZ"> 
+      <int>567</int> 
+     </void> 
+     <void property="viewGamma"> 
+      <double>1.0</double> 
+     </void> 
+     <void property="viewID"> 
+      <int>1874644635</int> 
+     </void> 
+     <void property="viewLevel"> 
+      <int>2049</int> 
+     </void> 
+     <void property="viewName"> 
+      <string>:C</string> 
+     </void> 
+     <void property="viewType"> 
+      <int>5</int> 
+     </void> 
+     <void property="viewWindow"> 
+      <int>4094</int> 
+     </void> 
+    </object> 
+    <object class="java.util.LinkedList"> 
+     <void method="add"> 
+      <object class="romexis_lib_imaging.typesg.ViewAttrib"> 
+       <void property="attribType"> 
+        <int>2</int> 
+       </void> 
+       <void property="intValue"> 
+        <int>472</int> 
+       </void> 
+       <void property="moduleKey"> 
+        <string>C</string> 
+       </void> 
+      </object> 
+     </void> 
+     <void method="add"> 
+      <object class="romexis_lib_imaging.typesg.ViewAttrib"> 
+       <void property="attribType"> 
+        <int>3</int> 
+       </void> 
+       <void property="intValue"> 
+        <int>662</int> 
+       </void> 
+       <void property="moduleKey"> 
+        <string>C</string> 
+       </void> 
+      </object> 
+     </void> 
+     <void method="add"> 
+      <object class="romexis_lib_imaging.typesg.ViewAttrib"> 
+       <void property="attribType"> 
+        <int>4</int> 
+       </void> 
+       <void property="doubleValue"> 
+        <double>1.2</double> 
+       </void> 
+       <void property="moduleKey"> 
+        <string>CA</string> 
+       </void> 
+      </object> 
+     </void> 
+     <void method="add"> 
+      <object class="romexis_lib_imaging.typesg.ViewAttrib"> 
+       <void property="attribType"> 
+        <int>5</int> 
+       </void> 
+       <void property="doubleValue"> 
+        <double>2.0</double> 
+       </void> 
+       <void property="moduleKey"> 
+        <string>CA</string> 
+       </void> 
+      </object> 
+     </void> 
+     <void method="add"> 
+      <object class="romexis_lib_imaging.typesg.ViewAttrib"> 
+       <void property="attribType"> 
+        <int>6</int> 
+       </void> 
+       <void property="intValue"> 
+        <int>1</int> 
+       </void> 
+       <void property="moduleKey"> 
+        <string>CA</string> 
+       </void> 
+      </object> 
+     </void> 
+     <void method="add"> 
+      <object class="romexis_lib_imaging.typesg.ViewAttrib"> 
+       <void property="attribType"> 
+        <int>7</int> 
+       </void> 
+       <void property="intValue"> 
+        <int>1</int> 
+       </void> 
+       <void property="moduleKey"> 
+        <string>CA</string> 
+       </void> 
+      </object> 
+     </void> 
+     <void method="add"> 
+      <object class="romexis_lib_imaging.typesg.ViewAttrib"> 
+       <void property="attribType"> 
+        <int>1</int> 
+       </void> 
+       <void property="moduleKey"> 
+        <string>CP</string> 
+       </void> 
+       <void property="stringValue"> 
+        <string>Standard</string> 
+       </void> 
+      </object> 
+     </void> 
+     <void method="add"> 
+      <object class="romexis_lib_imaging.typesg.ViewAttrib"> 
+       <void property="attribType"> 
+        <int>4</int> 
+       </void> 
+       <void property="doubleValue"> 
+        <double>6.4</double> 
+       </void> 
+       <void property="moduleKey"> 
+        <string>CP</string> 
+       </void> 
+      </object> 
+     </void> 
+     <void method="add"> 
+      <object class="romexis_lib_imaging.typesg.ViewAttrib"> 
+       <void property="attribType"> 
+        <int>5</int> 
+       </void> 
+       <void property="doubleValue"> 
+        <double>2.0</double> 
+       </void> 
+       <void property="moduleKey"> 
+        <string>CP</string> 
+       </void> 
+      </object> 
+     </void> 
+     <void method="add"> 
+      <object class="romexis_lib_imaging.typesg.ViewAttrib"> 
+       <void property="attribType"> 
+        <int>6</int> 
+       </void> 
+       <void property="intValue"> 
+        <int>1</int> 
+       </void> 
+       <void property="moduleKey"> 
+        <string>CP</string> 
+       </void> 
+      </object> 
+     </void> 
+     <void method="add"> 
+      <object class="romexis_lib_imaging.typesg.ViewAttrib"> 
+       <void property="attribType"> 
+        <int>7</int> 
+       </void> 
+       <void property="intValue"> 
+        <int>1</int> 
+       </void> 
+       <void property="moduleKey"> 
+        <string>CP</string> 
+       </void> 
+      </object> 
+     </void> 
+     <void method="add"> 
+      <object class="romexis_lib_imaging.typesg.ViewAttrib"> 
+       <void property="attribType"> 
+        <int>4</int> 
+       </void> 
+       <void property="doubleValue"> 
+        <double>1.0</double> 
+       </void> 
+       <void property="moduleKey"> 
+        <string>CC</string> 
+       </void> 
+      </object> 
+     </void> 
+     <void method="add"> 
+      <object class="romexis_lib_imaging.typesg.ViewAttrib"> 
+       <void property="attribType"> 
+        <int>5</int> 
+       </void> 
+       <void property="doubleValue"> 
+        <double>2.0</double> 
+       </void> 
+       <void property="moduleKey"> 
+        <string>CC</string> 
+       </void> 
+      </object> 
+     </void> 
+     <void method="add"> 
+      <object class="romexis_lib_imaging.typesg.ViewAttrib"> 
+       <void property="attribType"> 
+        <int>9</int> 
+       </void> 
+       <void property="doubleValue"> 
+        <double>30.0</double> 
+       </void> 
+       <void property="moduleKey"> 
+        <string>CC</string> 
+       </void> 
+      </object> 
+     </void> 
+     <void method="add"> 
+      <object class="romexis_lib_imaging.typesg.ViewAttrib"> 
+       <void property="attribType"> 
+        <int>6</int> 
+       </void> 
+       <void property="intValue"> 
+        <int>5</int> 
+       </void> 
+       <void property="moduleKey"> 
+        <string>CC</string> 
+       </void> 
+      </object> 
+     </void> 
+     <void method="add"> 
+      <object class="romexis_lib_imaging.typesg.ViewAttrib"> 
+       <void property="attribType"> 
+        <int>7</int> 
+       </void> 
+       <void property="intValue"> 
+        <int>1</int> 
+       </void> 
+       <void property="moduleKey"> 
+        <string>CC</string> 
+       </void> 
+      </object> 
+     </void> 
+     <void method="add"> 
+      <object class="romexis_lib_imaging.typesg.ViewAttrib"> 
+       <void property="attribType"> 
+        <int>24</int> 
+       </void> 
+       <void property="doubleValue"> 
+        <double>263.0</double> 
+       </void> 
+       <void property="moduleKey"> 
+        <string>CC</string> 
+       </void> 
+      </object> 
+     </void> 
+     <void method="add"> 
+      <object class="romexis_lib_imaging.typesg.ViewAttrib"> 
+       <void property="attribType"> 
+        <int>25</int> 
+       </void> 
+       <void property="moduleKey"> 
+        <string>CC</string> 
+       </void> 
+      </object> 
+     </void> 
+     <void method="add"> 
+      <object class="romexis_lib_imaging.typesg.ViewAttrib"> 
+       <void property="attribType"> 
+        <int>29</int> 
+       </void> 
+       <void property="moduleKey"> 
+        <string>CC</string> 
+       </void> 
+      </object> 
+     </void> 
+     <void method="add"> 
+      <object class="romexis_lib_imaging.typesg.ViewAttrib"> 
+       <void property="attribType"> 
+        <int>30</int> 
+       </void> 
+       <void property="moduleKey"> 
+        <string>CP</string> 
+       </void> 
+      </object> 
+     </void> 
+     <void method="add"> 
+      <object class="romexis_lib_imaging.typesg.ViewAttrib"> 
+       <void property="attribType"> 
+        <int>31</int> 
+       </void> 
+       <void property="moduleKey"> 
+        <string>CP</string> 
+       </void> 
+      </object> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="put"> 
+    <object class="romexis_lib_imaging.typesg.View3d"> 
+     <void property="baseXX"> 
+      <double>1.0</double> 
+     </void> 
+     <void property="baseYY"> 
+      <double>1.0</double> 
+     </void> 
+     <void property="baseZZ"> 
+      <double>1.0</double> 
+     </void> 
+     <void property="centerX"> 
+      <double>341.5</double> 
+     </void> 
+     <void property="centerY"> 
+      <double>341.5</double> 
+     </void> 
+     <void property="centerZ"> 
+      <double>341.5</double> 
+     </void> 
+     <void property="sliceX"> 
+      <int>341</int> 
+     </void> 
+     <void property="sliceY"> 
+      <int>50</int> 
+     </void> 
+     <void property="sliceZ"> 
+      <int>567</int> 
+     </void> 
+     <void property="viewGamma"> 
+      <double>1.0</double> 
+     </void> 
+     <void property="viewID"> 
+      <int>1874643780</int> 
+     </void> 
+     <void property="viewLevel"> 
+      <int>2049</int> 
+     </void> 
+     <void property="viewName"> 
+      <string>:P</string> 
+     </void> 
+     <void property="viewType"> 
+      <int>3</int> 
+     </void> 
+     <void property="viewWindow"> 
+      <int>4094</int> 
+     </void> 
+    </object> 
+    <object class="java.util.LinkedList"> 
+     <void method="add"> 
+      <object class="romexis_lib_imaging.typesg.ViewAttrib"> 
+       <void property="attribType"> 
+        <int>2</int> 
+       </void> 
+       <void property="intValue"> 
+        <int>472</int> 
+       </void> 
+       <void property="moduleKey"> 
+        <string>P</string> 
+       </void> 
+      </object> 
+     </void> 
+     <void method="add"> 
+      <object class="romexis_lib_imaging.typesg.ViewAttrib"> 
+       <void property="attribType"> 
+        <int>3</int> 
+       </void> 
+       <void property="intValue"> 
+        <int>662</int> 
+       </void> 
+       <void property="moduleKey"> 
+        <string>P</string> 
+       </void> 
+      </object> 
+     </void> 
+     <void method="add"> 
+      <object class="romexis_lib_imaging.typesg.ViewAttrib"> 
+       <void property="attribType"> 
+        <int>4</int> 
+       </void> 
+       <void property="doubleValue"> 
+        <double>1.2</double> 
+       </void> 
+       <void property="moduleKey"> 
+        <string>PA</string> 
+       </void> 
+      </object> 
+     </void> 
+     <void method="add"> 
+      <object class="romexis_lib_imaging.typesg.ViewAttrib"> 
+       <void property="attribType"> 
+        <int>5</int> 
+       </void> 
+       <void property="doubleValue"> 
+        <double>2.0</double> 
+       </void> 
+       <void property="moduleKey"> 
+        <string>PA</string> 
+       </void> 
+      </object> 
+     </void> 
+     <void method="add"> 
+      <object class="romexis_lib_imaging.typesg.ViewAttrib"> 
+       <void property="attribType"> 
+        <int>4</int> 
+       </void> 
+       <void property="doubleValue"> 
+        <double>1.2</double> 
+       </void> 
+       <void property="moduleKey"> 
+        <string>PS</string> 
+       </void> 
+      </object> 
+     </void> 
+     <void method="add"> 
+      <object class="romexis_lib_imaging.typesg.ViewAttrib"> 
+       <void property="attribType"> 
+        <int>5</int> 
+       </void> 
+       <void property="doubleValue"> 
+        <double>2.0</double> 
+       </void> 
+       <void property="moduleKey"> 
+        <string>PS</string> 
+       </void> 
+      </object> 
+     </void> 
+     <void method="add"> 
+      <object class="romexis_lib_imaging.typesg.ViewAttrib"> 
+       <void property="attribType"> 
+        <int>1</int> 
+       </void> 
+       <void property="moduleKey"> 
+        <string>PP</string> 
+       </void> 
+       <void property="stringValue"> 
+        <string>Standard</string> 
+       </void> 
+      </object> 
+     </void> 
+     <void method="add"> 
+      <object class="romexis_lib_imaging.typesg.ViewAttrib"> 
+       <void property="attribType"> 
+        <int>4</int> 
+       </void> 
+       <void property="doubleValue"> 
+        <double>6.4</double> 
+       </void> 
+       <void property="moduleKey"> 
+        <string>PP</string> 
+       </void> 
+      </object> 
+     </void> 
+     <void method="add"> 
+      <object class="romexis_lib_imaging.typesg.ViewAttrib"> 
+       <void property="attribType"> 
+        <int>5</int> 
+       </void> 
+       <void property="doubleValue"> 
+        <double>2.0</double> 
+       </void> 
+       <void property="moduleKey"> 
+        <string>PP</string> 
+       </void> 
+      </object> 
+     </void> 
+     <void method="add"> 
+      <object class="romexis_lib_imaging.typesg.ViewAttrib"> 
+       <void property="attribType"> 
+        <int>6</int> 
+       </void> 
+       <void property="intValue"> 
+        <int>1</int> 
+       </void> 
+       <void property="moduleKey"> 
+        <string>PA</string> 
+       </void> 
+      </object> 
+     </void> 
+     <void method="add"> 
+      <object class="romexis_lib_imaging.typesg.ViewAttrib"> 
+       <void property="attribType"> 
+        <int>7</int> 
+       </void> 
+       <void property="intValue"> 
+        <int>1</int> 
+       </void> 
+       <void property="moduleKey"> 
+        <string>PA</string> 
+       </void> 
+      </object> 
+     </void> 
+     <void method="add"> 
+      <object class="romexis_lib_imaging.typesg.ViewAttrib"> 
+       <void property="attribType"> 
+        <int>6</int> 
+       </void> 
+       <void property="intValue"> 
+        <int>1</int> 
+       </void> 
+       <void property="moduleKey"> 
+        <string>PS</string> 
+       </void> 
+      </object> 
+     </void> 
+     <void method="add"> 
+      <object class="romexis_lib_imaging.typesg.ViewAttrib"> 
+       <void property="attribType"> 
+        <int>7</int> 
+       </void> 
+       <void property="intValue"> 
+        <int>1</int> 
+       </void> 
+       <void property="moduleKey"> 
+        <string>PS</string> 
+       </void> 
+      </object> 
+     </void> 
+     <void method="add"> 
+      <object class="romexis_lib_imaging.typesg.ViewAttrib"> 
+       <void property="attribType"> 
+        <int>6</int> 
+       </void> 
+       <void property="intValue"> 
+        <int>1</int> 
+       </void> 
+       <void property="moduleKey"> 
+        <string>PP</string> 
+       </void> 
+      </object> 
+     </void> 
+     <void method="add"> 
+      <object class="romexis_lib_imaging.typesg.ViewAttrib"> 
+       <void property="attribType"> 
+        <int>7</int> 
+       </void> 
+       <void property="intValue"> 
+        <int>1</int> 
+       </void> 
+       <void property="moduleKey"> 
+        <string>PP</string> 
+       </void> 
+      </object> 
+     </void> 
+     <void method="add"> 
+      <object class="romexis_lib_imaging.typesg.ViewAttrib"> 
+       <void property="attribType"> 
+        <int>30</int> 
+       </void> 
+       <void property="moduleKey"> 
+        <string>PP</string> 
+       </void> 
+      </object> 
+     </void> 
+     <void method="add"> 
+      <object class="romexis_lib_imaging.typesg.ViewAttrib"> 
+       <void property="attribType"> 
+        <int>31</int> 
+       </void> 
+       <void property="moduleKey"> 
+        <string>PP</string> 
+       </void> 
+      </object> 
+     </void> 
+    </object> 
+   </void> 
+  </void> 
+  <void property="imageAttribs"> 
+   <void method="add"> 
+    <object class="romexis_lib_imaging.typesg.ImageAttrib"> 
+     <void property="attribID"> 
+      <int>175571</int> 
+     </void> 
+     <void property="attribType"> 
+      <int>23</int> 
+     </void> 
+     <void property="imageID"> 
+      <int>7994</int> 
+     </void> 
+     <void property="intValue"> 
+      <int>1</int> 
+     </void> 
+     <void property="updatedDate"> 
+      <int>20180605</int> 
+     </void> 
+     <void property="updatedTime"> 
+      <int>142148396</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="romexis_lib_imaging.typesg.ImageAttrib"> 
+     <void property="attribID"> 
+      <int>175572</int> 
+     </void> 
+     <void property="attribType"> 
+      <int>8</int> 
+     </void> 
+     <void property="imageID"> 
+      <int>7994</int> 
+     </void> 
+     <void property="intValue"> 
+      <int>7993</int> 
+     </void> 
+     <void property="stringValue"> 
+      <string>20180605091239</string> 
+     </void> 
+     <void property="updatedDate"> 
+      <int>20180605</int> 
+     </void> 
+     <void property="updatedTime"> 
+      <int>142148396</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="romexis_lib_imaging.typesg.ImageAttrib"> 
+     <void property="attribID"> 
+      <int>175573</int> 
+     </void> 
+     <void property="attribType"> 
+      <int>611</int> 
+     </void> 
+     <void property="imageID"> 
+      <int>7994</int> 
+     </void> 
+     <void property="intValue"> 
+      <int>7992</int> 
+     </void> 
+     <void property="stringValue"> 
+      <string>20180605090943</string> 
+     </void> 
+     <void property="updatedDate"> 
+      <int>20180605</int> 
+     </void> 
+     <void property="updatedTime"> 
+      <int>142148397</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="romexis_lib_imaging.typesg.ImageAttrib"> 
+     <void property="attribID"> 
+      <int>175574</int> 
+     </void> 
+     <void property="attribType"> 
+      <int>3</int> 
+     </void> 
+     <void property="imageID"> 
+      <int>7994</int> 
+     </void> 
+     <void property="stringValue"> 
+      <string>2.16.840.1.113669.632.10.20180605.142145808.226021601.9790</string> 
+     </void> 
+     <void property="updatedDate"> 
+      <int>20180605</int> 
+     </void> 
+     <void property="updatedTime"> 
+      <int>142148397</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="romexis_lib_imaging.typesg.ImageAttrib"> 
+     <void property="attribID"> 
+      <int>175575</int> 
+     </void> 
+     <void property="attribType"> 
+      <int>4</int> 
+     </void> 
+     <void property="imageID"> 
+      <int>7994</int> 
+     </void> 
+     <void property="stringValue"> 
+      <string>2.16.840.1.113669.632.10.20180605.142145808.0.9800</string> 
+     </void> 
+     <void property="updatedDate"> 
+      <int>20180605</int> 
+     </void> 
+     <void property="updatedTime"> 
+      <int>142148397</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="romexis_lib_imaging.typesg.ImageAttrib"> 
+     <void property="attribID"> 
+      <int>175576</int> 
+     </void> 
+     <void property="attribType"> 
+      <int>16</int> 
+     </void> 
+     <void property="imageID"> 
+      <int>7994</int> 
+     </void> 
+     <void property="stringValue"> 
+      <string>2.16.840.1.113669.632.10.20180605.141939983.7994</string> 
+     </void> 
+     <void property="updatedDate"> 
+      <int>20180605</int> 
+     </void> 
+     <void property="updatedTime"> 
+      <int>142148397</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="romexis_lib_imaging.typesg.ImageAttrib"> 
+     <void property="attribID"> 
+      <int>175577</int> 
+     </void> 
+     <void property="attribType"> 
+      <int>1</int> 
+     </void> 
+     <void property="imageID"> 
+      <int>7994</int> 
+     </void> 
+     <void property="stringValue"> 
+      <string>F:/romexis_images/2018/06/5939/I7994.dcm</string> 
+     </void> 
+     <void property="updatedDate"> 
+      <int>20180605</int> 
+     </void> 
+     <void property="updatedTime"> 
+      <int>142148397</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="romexis_lib_imaging.typesg.ImageAttrib"> 
+     <void property="attribID"> 
+      <int>175578</int> 
+     </void> 
+     <void property="attribType"> 
+      <int>22</int> 
+     </void> 
+     <void property="imageID"> 
+      <int>7994</int> 
+     </void> 
+     <void property="intValue"> 
+      <int>1</int> 
+     </void> 
+     <void property="updatedDate"> 
+      <int>20180605</int> 
+     </void> 
+     <void property="updatedTime"> 
+      <int>142148397</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="romexis_lib_imaging.typesg.ImageAttrib"> 
+     <void property="attribType"> 
+      <int>142</int> 
+     </void> 
+     <void property="imageID"> 
+      <int>7994</int> 
+     </void> 
+     <void property="intValue"> 
+      <int>683</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="romexis_lib_imaging.typesg.ImageAttrib"> 
+     <void property="attribType"> 
+      <int>141</int> 
+     </void> 
+     <void property="imageID"> 
+      <int>7994</int> 
+     </void> 
+     <void property="intValue"> 
+      <int>578</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="romexis_lib_imaging.typesg.ImageAttrib"> 
+     <void property="attribType"> 
+      <int>140</int> 
+     </void> 
+     <void property="imageID"> 
+      <int>7994</int> 
+     </void> 
+     <void property="intValue"> 
+      <int>578</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="romexis_lib_imaging.typesg.ImageAttrib"> 
+     <void property="attribType"> 
+      <int>206</int> 
+     </void> 
+     <void property="imageID"> 
+      <int>7994</int> 
+     </void> 
+     <void property="intValue"> 
+      <int>3</int> 
+     </void> 
+    </object> 
+   </void> 
+  </void> 
+ </object> 
+</java> 
